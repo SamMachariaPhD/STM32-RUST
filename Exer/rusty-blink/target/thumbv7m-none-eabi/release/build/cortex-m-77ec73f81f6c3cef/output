@@ -1,0 +1,4 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/home/sam/Documents/STM32-RUST/STM32-RUST/Exer/rusty-blink/target/thumbv7m-none-eabi/release/build/cortex-m-77ec73f81f6c3cef/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv7m

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/sam/Documents/STM32-RUST/STM32-RUST/Exer/rusty-blink/target/thumbv7m-none-eabi/release/build/typenum-360924babe68af0c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/sam/Documents/STM32-RUST/STM32-RUST/Exer/rusty-blink/target/thumbv7m-none-eabi/release/build/typenum-360924babe68af0c/out/op.rs

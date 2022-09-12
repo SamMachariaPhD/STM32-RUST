@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/sam/Documents/STM32-RUST/STM32-RUST/Exer/rusty-blink/target/release/build/stm32f1-e860e9e7c5c392b3/out
+cargo:rerun-if-changed=src/stm32f103/device.x
+cargo:rerun-if-changed=build.rs

@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/sam/Documents/STM32-RUST/STM32-RUST/Exer/rusty-blink/target/release/build/cortex-m-rt-f3ebe800836a470c/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in
