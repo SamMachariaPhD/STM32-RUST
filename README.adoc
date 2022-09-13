@@ -1,0 +1,15 @@
+= STM32-RUST
+Programming STM32 with Rust Programming Language 
+
+== Preparation commands 
+
+:source-highlighter: coderay
+
+[source,shell]
+----
+$ rustup update 
+$ rustup target install thumbv7m-none-eabi 
+$ sudo apt install -y pkg-config libusb-1.0-0-dev libftdi1-dev
+$ sudo apt-get install libudev-dev
+$ cargo install cargo-flash
+----
