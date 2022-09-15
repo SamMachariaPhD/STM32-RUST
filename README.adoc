@@ -17,7 +17,7 @@ $ cargo install cargo-flash
 
 == Flashing error 
 
-* If you get a permission error, you have to update `/etc/` with `69-probe-rs.rules`
+* If you get a permission error, you have to update `/etc/udev/rules.d/` with `69-probe-rs.rules`
 
 * `cargo flash --chip stm32f103C8 --release` error: 
 

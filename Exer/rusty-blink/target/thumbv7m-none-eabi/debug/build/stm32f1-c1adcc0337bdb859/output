@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/sam/Documents/STM32-RUST/STM32-RUST/Exer/rusty-blink/target/thumbv7m-none-eabi/debug/build/stm32f1-c1adcc0337bdb859/out
+cargo:rerun-if-changed=src/stm32f103/device.x
+cargo:rerun-if-changed=build.rs
